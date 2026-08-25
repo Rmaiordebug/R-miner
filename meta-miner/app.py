@@ -16,7 +16,7 @@ from utils import COUNTRIES, MIN_PRESETS, RESULTS_DIR, ensure_dirs, slugify
 ensure_dirs()
 
 st.set_page_config(
-    page_title="AdHunter",
+    page_title="R+miner",
     page_icon="🟡",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -885,7 +885,7 @@ st.markdown(
 <div class="hero-shell">
     <div class="hero-grid">
         <div>
-            <div class="eyebrow">◈ AdHunter</div>
+            <div class="eyebrow">R+miner</div>
             <h1>Descubra páginas <span>que anunciam no Meta</span></h1>
             <p>
                 Descubra páginas com grande volume de anúncios ativos, identifique o Page ID
@@ -905,9 +905,9 @@ with st.sidebar:
     st.markdown(
         """
         <div class="brand-mini">
-            <div class="brand-icon">◈</div>
+            <div class="brand-icon"><img src="/app/static/rplusminer-logo.png" alt="Logo R+miner" /></div>
             <div>
-                <div class="brand-title">AdHunter</div>
+                <div class="brand-title">R+miner</div>
                 <div class="brand-sub">Meta Ads Miner</div>
             </div>
         </div>
