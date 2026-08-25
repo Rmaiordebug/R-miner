@@ -1,0 +1,16 @@
+{
+  "query": "premio, choquei,saude,religiao",
+  "country": "BR",
+  "country_name": "Brasil",
+  "discovery_limit": 100,
+  "min_active": 10,
+  "ads_analyzed": 0,
+  "pages_found": 0,
+  "pages_analyzed": 0,
+  "pages_approved": 0,
+  "errors": 0,
+  "started_at": "2026-08-24T22:31:18.530324+00:00",
+  "finished_at": "2026-08-24T22:31:21.626164+00:00",
+  "results": [],
+  "ignored": []
+}
